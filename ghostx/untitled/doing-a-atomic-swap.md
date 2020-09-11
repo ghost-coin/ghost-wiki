@@ -1,25 +1,18 @@
 # Doing a Atomic Swap
 
-## Getting Super Powers
+## GHOST - ETH
 
-Becoming a super hero is a fairly straight forward process:
+To do a atomic swap both traders need to hold ETH, only is needed Ghost on the trader that wanna sell, and being online at same time.
 
-```
-$ give me super-powers
-```
+Ghost-ETH exchange starts by funding a Script address with Ghost and by locking ETH in a smart contract. Secrets are exchanged between them, and then one trader is able to unlock ETH and the other one to send a transaction to unlock Ghost from the timelock script. As it can be shown this process demands both parties hold ETH to perform the swap. All this process is made automatically and trustless, you need to make sure that keep online until swap concludes.
+
+ 
 
 {% hint style="info" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
+ Be aware to trade above 1 ETH value on GhostX due to high gas fees
 {% endhint %}
 
-Once you're strong enough, save the world:
 
-{% code title="hello.sh" %}
-```bash
-# Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
-```
-{% endcode %}
 
 
 
