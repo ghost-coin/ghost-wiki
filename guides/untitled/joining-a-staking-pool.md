@@ -1,0 +1,2 @@
+# Joining a Staking Pool
+

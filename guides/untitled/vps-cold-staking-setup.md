@@ -1,0 +1,2 @@
+# VPS Cold Staking Setup
+

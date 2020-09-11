@@ -1,8 +1,4 @@
----
-description: Here we have the common questions regarding GhostX
----
-
-# FAQ
+# ERC20 Ghost Swap
 
 ## Can I become who I want to be?
 
