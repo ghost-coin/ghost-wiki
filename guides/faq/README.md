@@ -1,5 +1,5 @@
 ---
-description: 'This is FAQ is divided in the follow sections:'
+description: 'FAQ is divided in the follow sections:'
 ---
 
 # FAQ
