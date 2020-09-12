@@ -15,10 +15,15 @@
   * [Joining a Staking Pool](guides/untitled/joining-a-staking-pool.md)
   * [VPS Cold Staking Setup](guides/untitled/vps-cold-staking-setup.md)
 
+---
+
+* [Tutorials](tutorials.md)
+
 ## GhostX
 
 * [Introduction](ghostx/introduction.md)
 * [Atomic Swaps](ghostx/untitled/README.md)
+  * [Untitled](ghostx/untitled/untitled-1.md)
   * [Doing a Atomic Swap](ghostx/untitled/doing-a-atomic-swap.md)
 * [FAQ](ghostx/faq.md)
 
