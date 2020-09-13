@@ -4,6 +4,7 @@
 
 ## Ghost Coin <a id="guides"></a>
 
+* [Development Ideas](guides/development-ideas.md)
 * [FAQ](guides/faq/README.md)
   * [Exchanges/Wallets](guides/faq/exchanges-wallets.md)
   * [ERC20 Ghost Swap](guides/faq/erc20-ghost-swap.md)
@@ -18,6 +19,7 @@
 ---
 
 * [Tutorials](tutorials.md)
+* [Ghost Awesome](ghost-awesome.md)
 
 ## GhostX
 
