@@ -22,9 +22,11 @@ The Ghost Coin project maintains the source repository on github.  Please file b
 
 ## Why do I need to create a wallet?  / Why can't I use my existing wallet \(e.g. Metamask\)?
 
-
+You can use your Metamask wallet to trade on the atomic swap exchange.
 
 ## Can I use my existing wallet \(e.g. Metamask\) 12 word recovery phrase with GhostX? 
+
+Yes, GhostX support Metamask, and also adding the 12 words as method to recreate your wallet. If you go to 12 words, please backup it in a safe place, your wallet is your words.
 
 
 
@@ -71,6 +73,8 @@ NOTE: Save this information for your own personal records.  Detailed trade infor
 ### 
 
 ## For Ghost transactions, what kind of Ghost wallet address is used \(Private/Public\)?
+
+At the moment Ghost only support public wallets on the web wallet. Be aware that the wallet is always the same address, this will impact in your privacy, so as recommendation use the web wallet when you want to swap.
 
 
 
