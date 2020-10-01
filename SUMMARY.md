@@ -20,6 +20,9 @@
 
 * [Tutorials](tutorials.md)
 * [Ghost Awesome](ghost-awesome.md)
+* [Privacy](privacy.md)
+* [How To](how-to/README.md)
+  * [How to check gvr eligibility](how-to/how-to-check-gvr-eligibility.md)
 
 ## GhostX
 
